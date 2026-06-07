@@ -1,37 +1,42 @@
 # Hi, I'm Anand Kumar Singh 👋
 
-### Senior SDET | Automation Engineer | AI-Augmented QA
+### Senior SDET | Automation Engineer | AI-Augmented QA | GenAI for Testing
 
-I’m a Senior Automation Engineer / SDET with 8 years of experience in fintech QA, test automation framework design, CI/CD pipeline ownership, and AI-augmented quality engineering.
+I’m a Senior SDET with 8 years of experience in fintech QA, test automation, CI/CD pipeline ownership, and framework design.
 
-I work mainly with **Java, Selenium, Robot Framework, REST Assured, Jenkins, SQL, Python**, and **BDD/ATDD**.
+Along with traditional automation, I’m actively building practical **AI / GenAI / RAG-based tools for QA teams** — focused on ATDD generation, JIRA analysis, test design acceleration, and domain-grounded automation support.
+
+My work combines **Selenium, Java, Robot Framework, REST Assured, Jenkins, SQL**, and modern AI engineering concepts like **Hybrid RAG, GraphRAG, FAISS, FastAPI, PostgreSQL, Ollama, and prompt engineering**.
 
 ---
 
 ## 🔧 Core Skills
 
 - **Test Automation:** Selenium WebDriver, Robot Framework, TestNG, Cucumber
-- **Framework Design:** Page Object Model, reusable test utilities, JSON-driven test data
+- **Languages:** Java, Python, SQL, Gherkin
 - **API Testing:** REST Assured, Postman, OAuth2, Bearer Auth
+- **Framework Design:** Page Object Model, reusable utilities, JSON-driven test data
 - **CI/CD:** Jenkins, Maven, Git, Allure Reports
-- **Database Testing:** SQL, DB-driven validation, data integrity testing
+- **Database Testing:** SQL validation, DB-driven testing, data integrity checks
 - **BDD / ATDD:** Gherkin, scenario design, automation-ready feature files
-- **AI for QA:** RAG, GraphRAG, FAISS, FastAPI, PostgreSQL, Ollama
+- **AI / GenAI:** RAG, GraphRAG, FAISS, FastAPI, PostgreSQL, Ollama, Prompt Engineering
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Forge — AI Platform for ATDD Scenario Generation
+### 🔹 Forge — AI Platform for QA & ATDD Generation
 
-An offline AI platform built for QA teams to generate grounded ATDD scenarios using Hybrid RAG, GraphRAG, and indexed Gherkin repository steps.
+Forge is an offline AI platform built to help QA teams generate grounded ATDD scenarios, review JIRA stories, summarize requirements, and reuse existing automation knowledge.
 
 **Tech Stack:** Python, FastAPI, FAISS, PostgreSQL, GraphRAG, Ollama, NetworkX
 
-- Built modules for Chat, JIRA Review, JIRA Summarization, and ATDD Generation
+- Built modules for Chat, JIRA Reviewer, JIRA Summarizer, and ATDD Generator
+- Designed Hybrid RAG using vector search, full-text search, HyDE, and reranking
+- Built GraphRAG knowledge layer over domain documentation
 - Indexed 161,000+ Gherkin steps from 1,500+ feature files
-- Used hybrid retrieval with vector search, full-text search, HyDE, and reranking
-- Reduced ATDD scenario writing effort from hours to minutes
+- Reduced ATDD scenario creation effort from hours to minutes
+- Focused on enterprise-safe, offline, domain-grounded GenAI usage
 
 🔗 [View Project](https://github.com/1stanand/Forge_Public)
 
@@ -43,11 +48,11 @@ Production-grade Selenium automation framework using Java 21, Selenium 4, TestNG
 
 **Tech Stack:** Java, Selenium, TestNG, Maven, Allure
 
-- Page Object Model based structure
-- JSON-driven test data
+- Page Object Model based framework structure
+- JSON-driven test data management
 - Config-driven browser, timeout, and headless execution
-- Maven profiles for smoke and regression suites
-- Failure screenshots and Allure reporting support
+- Maven profiles for smoke and regression execution
+- Allure reporting with failure screenshots
 
 🔗 [View Project](https://github.com/1stanand/automation)
 
@@ -55,7 +60,7 @@ Production-grade Selenium automation framework using Java 21, Selenium 4, TestNG
 
 ## 🏦 Domain Experience
 
-I have strong experience in fintech lending platforms, especially loan origination workflows involving:
+I have strong experience in fintech lending platforms and loan origination workflows, including:
 
 - Credit Cards
 - Personal Loans
@@ -63,15 +68,17 @@ I have strong experience in fintech lending platforms, especially loan originati
 - SME Loans
 - CAS / FinOne Neo workflows
 - Multi-stage approval and disbursal journeys
+- Client-specific business rule variations
 
 ---
 
-## 📌 What I’m focused on now
+## 📌 Current Focus
 
-- Strengthening Java + Selenium + TestNG framework design
-- Building better API automation with REST Assured
-- Improving CI-ready automation architecture
-- Exploring practical AI use cases in QA and test design
+- Building stronger Java + Selenium + TestNG automation frameworks
+- Improving API automation using REST Assured
+- Designing CI-ready automation solutions
+- Applying GenAI, RAG, and agentic workflows to real QA problems
+- Building practical AI tools for test design, story analysis, and automation reuse
 
 ---
 
